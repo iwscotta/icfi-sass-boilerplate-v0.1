@@ -3,8 +3,9 @@
  * Import this file using the following HTML or equivalent:
  * <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 /* line 9, ../sass/screen.scss */
-.p {
-  background: #000;
-  color: #fff;
-  margin: 10em;
+p { 
+	background: #444;
+	color: #fff;
+	margin: 2em;
+	padding: 2em
 }
